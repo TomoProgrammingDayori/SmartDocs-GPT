@@ -1,3 +1,5 @@
+
+
 # 📄 SmartDocs GPT
 
 業界特化型のAIドキュメント生成ツール。Web制作・ライター・動画編集など、フリーランスや中小事業者向けに、契約書・請求書・見積書を自動生成します。
@@ -24,6 +26,11 @@ OpenAI GPTとCodexを活用し、入力内容に応じて業界標準の文書�
 | バックエンド   | Supabase (Auth + DB)         |
 | AI          | OpenAI GPT-4 / Codex         |
 | 文書出力     | Markdown / html-pdf など      |
+
+---
+## 📷 スクリーンショット
+<img width="675" height="421" alt="スクリーンショット 2025-08-04 101309" src="https://github.com/user-attachments/assets/fae5ac25-ed97-4258-9536-3183e30ad4c9" />
+
 
 ---
 
