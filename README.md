@@ -1,4 +1,7 @@
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/8c56db90-3ceb-46e9-a78a-2b7e97aa6e40" />
+<p>
+  <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/fa9fdf9b-a77d-4681-a1b9-7f9d8f48044b" />
+
+</p>
 
 # 📄 SmartDocs GPT
 
