@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/fa9fdf9b-a77d-4681-a1b9-7f9d8f48044b" />
 
 </p>
@@ -101,3 +101,15 @@ npm run dev
 ## 📄 ライセンス
 
 MIT License
+
+---
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
+
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
